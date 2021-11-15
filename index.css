@@ -16,6 +16,7 @@ header{
     grid-template-columns:1fr 1fr 1fr;
     grid-gap: 10rem;
     margin-top: 30px;
+    
 }
 .nested-mobile{
     display: none;
@@ -173,9 +174,8 @@ footer{
     footer div{
         margin-bottom: 20px;
     }
-    button {
-        display: block;
-        align-content: center;
+    btn {
+      display: block;
        }
 }
 
